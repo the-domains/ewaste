@@ -1,0 +1,14 @@
+layout_spectrum: 0.8780114727560431
+typography_spectrum: 0.5420025521889329
+color:
+  brandStrength: 0.36069908645004034
+  lightness: 0.3403403132688254
+  saturation: 0.28575310902670026
+  rhythmicContrast: 0.190347065217793
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: eWaste
